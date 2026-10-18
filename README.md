@@ -1,0 +1,2 @@
+# VintedSupportCenter
+Sending technical information
